@@ -61,34 +61,24 @@ npm run dev
 ---
 
 ## 📁 Folder Structure
-pgsql
-Copy code
-PlayVault/
-│
-├── public/
-│   └── favicon.svg
-│
-├── src/
-│   ├── components/
-│   │   ├── GameCard.jsx
-│   │   ├── GameModal.jsx
-│   ├── App.jsx
-│   ├── App.css
-│   └── index.jsx
-│
-├── .gitignore
-├── README.md
-├── LICENSE
-└── package.json
+
+**Main folders:**
+
+- **public/** – Static assets like `favicon.svg`
+- **src/** – Source code  
+  - **components/** – Reusable React components  
+  - `App.jsx`, `index.jsx` – Entry points  
+- `.gitignore`, `README.md`, `LICENSE`, `package.json` – Meta files
 
 ---
 
-##📄 License
+## 📄 License
 This project is licensed under the MIT License.
+Feel free to use, share, and contribute!
 
 ---
 
-##🙋‍♀️ Author
+## 🙋‍♀️ Author
 Made with 💜 by @arch5d
 
 ---
