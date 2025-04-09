@@ -1,7 +1,5 @@
 <!-- Banner -->
-<p align="center">
-![image](https://github.com/user-attachments/assets/7fbb524e-2a7d-48b4-ac15-db0ec12df080)
-
+<p align="center">![Screenshot 2025-04-09 111711](https://github.com/user-attachments/assets/fcc49d7d-8e90-4b2a-a24d-e56a17e1096d)
 </p>
 
 <h1 align="center">🎮 PlayVault</h1>
