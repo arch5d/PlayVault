@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-![PLAYVAULT](https://github.com/user-attachments/assets/f4f05043-0181-436d-b08a-9364e40bf8fa)
+![image](https://github.com/user-attachments/assets/7fbb524e-2a7d-48b4-ac15-db0ec12df080)
 
 </p>
 
@@ -32,7 +32,6 @@
 
 | Light Mode |
 |------------|
-
 | ![Screenshot 2025-04-09 111044](https://github.com/user-attachments/assets/e20b12f3-9bfb-4830-8d88-fd256bde8c8f) |
 
 
