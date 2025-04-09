@@ -1,7 +1,5 @@
-<!-- Banner -->
-<p align="center">
-![PlayVault Banner](./screenshots/PLAYVAULT.png)
-</p>
+![PLAYVAULT](https://github.com/user-attachments/assets/78c056ad-f63b-4483-b9a5-d8fe1af634ae)
+
 
 <h1 align="center">🎮 PlayVault</h1>
 <p align="center">
