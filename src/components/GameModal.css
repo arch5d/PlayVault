@@ -1,0 +1,106 @@
+:root {
+    --modal-bg-dark: #f9f5f0;
+    --modal-text-dark: #2b2b2b;
+    --modal-bg-light: #1f1f1f;
+    --modal-text-light: #f1f1f1;
+    --accent: #97bfb4;
+    --accent-light: #d0e4dc;
+  }
+  
+  .modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.6);
+    backdrop-filter: blur(3px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 999;
+  }
+  
+  .modal {
+    background-color: var(--modal-bg-dark);
+    color: var(--modal-text-dark);
+    padding: 2rem;
+    border-radius: 20px;
+    width: 90%;
+    max-width: 500px;
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+    position: relative;
+    text-align: left;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  body.dark .modal {
+    background-color: var(--modal-bg-light);
+    color: var(--modal-text-light);
+  }
+  
+  body.dark .modal p {
+    color: var(--modal-text-light);
+  }
+  
+  .modal button {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    background: transparent;
+    color: var(--accent);
+    border: 2px solid var(--accent);
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    cursor: pointer;
+    font-size: 1.2rem;
+    transition: all 0.3s ease;
+  }
+  
+  .modal button:hover {
+    background: var(--accent);
+    color: var(--modal-bg-dark);
+  }
+  
+  .modal-content {
+    background: transparent;
+    padding: 0;
+  }
+  
+  .modal img {
+    width: 100%;
+    border-radius: 14px;
+    margin: 1rem 0;
+  }
+  
+  .modal h2 {
+    color: var(--accent);
+    margin-top: 0;
+    font-size: 1.8rem;
+    font-weight: 700;
+    font-family: 'Orbitron', sans-serif;
+  }
+  
+  .modal p {
+    color: var(--modal-text-dark);
+    margin-bottom: 0.8rem;
+    line-height: 1.5;
+    font-size: 1rem;
+  }
+  
+  .modal p strong {
+    color: var(--accent);
+  }
+  
+  .close-btn {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 1.2rem;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    color: var(--accent);
+  }
+  
