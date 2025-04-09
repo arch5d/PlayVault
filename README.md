@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arch5d/PlayVault/main/banner.png" alt="PlayVault Banner" />
+![PLAYVAULT](https://github.com/user-attachments/assets/e6da3620-c6c3-4029-8c0f-1627b8a8eba0)
 </p>
 
 <h1 align="center">🎮 PlayVault</h1>
