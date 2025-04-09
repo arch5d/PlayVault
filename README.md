@@ -32,7 +32,8 @@
 
 | Light Mode | Dark Mode |
 |------------|-----------|
-| ![Light Mode](screenshots/light.png) | ![Dark Mode](screenshots/dark.png) |
+
+| ![Screenshot 2025-04-09 111044](https://github.com/user-attachments/assets/e20b12f3-9bfb-4830-8d88-fd256bde8c8f)  | ![Screenshot 2025-04-09 111024](https://github.com/user-attachments/assets/bbe55626-0523-4272-af8b-32fda1a77dfa) |
 
 > 💡 Add your actual screenshots in a `/screenshots` folder in the repo and update the URLs above.
 
