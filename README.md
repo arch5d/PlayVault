@@ -20,8 +20,14 @@
 - 🌓 Dark mode / Light mode toggle
 - 🔍 Search bar to quickly find games
 - 🎯 Filter by genre and platform
+    ![Screenshot 2025-04-09 112419](https://github.com/user-attachments/assets/f34599da-d1e7-4c94-9bf7-d0c2537f567e)
+
 - ❤️ Mark your favorite games (stored locally)
+    ![Screenshot 2025-04-09 112335](https://github.com/user-attachments/assets/0f5e3edd-8d56-4ea4-9305-391b349a83a2)
+
 - 💬 Detailed modal popup with description & external links
+    ![Screenshot 2025-04-09 112309](https://github.com/user-attachments/assets/e19d005c-1c65-4fcd-8d45-c55c46c7b58d)
+
 
 ---
 
